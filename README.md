@@ -12,10 +12,9 @@ that is the i3 rice I made, feel free to use them or do whatever you want with i
 | bar                                      | polybar                                  |
 | Image viewer                             | feh                                      |
 
-![screen2.png](/home/user/Pictures/screen2.png)
 
-![screen1.png](/home/user/Pictures/screen1.png)
-
-![screen3.png](/home/user/Pictures/screen3.png)
+![screen1](https://user-images.githubusercontent.com/96692294/167312902-ce70fe4f-416a-4339-93b6-3b400c1e1358.png)
+![screen2](https://user-images.githubusercontent.com/96692294/167312905-1b3399c5-d127-4398-a38f-0f0746b03384.png)
+![screen3](https://user-images.githubusercontent.com/96692294/167312908-9ef63890-beba-46de-9e36-c22206b42c6c.png)
 
 
